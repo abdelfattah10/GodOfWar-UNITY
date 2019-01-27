@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 4dc07a7299652492ebcc4a6016a14238
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Grunge_A
+    100004: Grunge_B
+    100006: Grunge_C
+    100008: Grunge_D
+    100010: Grunge_E
+    100012: Grunge_F
+    100014: Hay_A
+    100016: Hay_B
+    100018: Hay_C
+    100020: Hay_D
+    100022: Wax
+    100024: Decals
+    400000: //RootNode
+    400002: Grunge_A
+    400004: Grunge_B
+    400006: Grunge_C
+    400008: Grunge_D
+    400010: Grunge_E
+    400012: Grunge_F
+    400014: Hay_A
+    400016: Hay_B
+    400018: Hay_C
+    400020: Hay_D
+    400022: Wax
+    400024: Decals
+    2300000: Grunge_A
+    2300002: Grunge_B
+    2300004: Grunge_C
+    2300006: Grunge_D
+    2300008: Grunge_E
+    2300010: Grunge_F
+    2300012: Hay_A
+    2300014: Hay_B
+    2300016: Hay_C
+    2300018: Hay_D
+    2300020: Wax
+    3300000: Grunge_A
+    3300002: Grunge_B
+    3300004: Grunge_C
+    3300006: Grunge_D
+    3300008: Grunge_E
+    3300010: Grunge_F
+    3300012: Hay_A
+    3300014: Hay_B
+    3300016: Hay_C
+    3300018: Hay_D
+    3300020: Wax
+    4300000: Hay_A
+    4300002: Hay_B
+    4300004: Hay_C
+    4300006: Hay_D
+    4300008: Grunge_A
+    4300010: Grunge_B
+    4300012: Grunge_C
+    4300014: Grunge_D
+    4300016: Grunge_E
+    4300018: Grunge_F
+    4300020: Wax
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grunge_A
+    second: {fileID: 2100000, guid: 5a3c8bf47deb040398cb09c3961d50c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grunge_B
+    second: {fileID: 2100000, guid: d4fa0d9e28d364601958d71c2f14145a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grunge_C
+    second: {fileID: 2100000, guid: 89965ee58ca054b8da2830e2cb68cf65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grunge_D
+    second: {fileID: 2100000, guid: 9ea915747841c47d6b9a33fc5a48f797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grunge_E
+    second: {fileID: 2100000, guid: 1bb74e108f1414b9d94354f2620dad36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grunge_F
+    second: {fileID: 2100000, guid: c6d520876405b49e798303a29d99668b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Hay_A
+    second: {fileID: 2100000, guid: 76c951c58f802455ea6512329e0825a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Hay_B
+    second: {fileID: 2100000, guid: 73481eaeab29946798cd4b99a0c1e4f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Hay_C
+    second: {fileID: 2100000, guid: 80416cebe41b54d6cafea7815810b74a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Hay_D
+    second: {fileID: 2100000, guid: baab15e755d1f440394799f4c9e4f2ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wax_B
+    second: {fileID: 2100000, guid: f26198addaa474da7b688e2f3128844a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
